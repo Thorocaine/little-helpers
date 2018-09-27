@@ -1,0 +1,9 @@
+{
+  "name": "little-helpers",
+  "version": "0.0.0",
+  "description": "A library of a few very simple methods for JavaScript or TypeScript",
+  "main": "index.js",
+  "repository": "https://github.com/Thorocaine/little-helpers.git",
+  "author": "Jonathan Peel <me@jonathanpeel.co.za>",
+  "license": "MIT"
+}
